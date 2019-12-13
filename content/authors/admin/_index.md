@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Brian Jalaian
 
 # Username (this should match the folder name)
 authors:
@@ -22,8 +22,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine Learning
+- Adversarial Machine Learning
+- Deep Learning
+- Bayesian Neural Network
 
 education:
   courses:
