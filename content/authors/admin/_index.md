@@ -29,15 +29,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Electrical Engineering
+  - course: PhD in Electrical Engineering -  Network Optimization
     institution: Virginia Tech
     year: 2016
   - course: M.Sc. in Operation Research
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: Virginia Tech
+    year: 2014
+  - course: M.Sc in Electrical Engineering - Communication Systems
+    institution: Virginia Tech
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
