@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Aritifical Intelligence Research Scientist  
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National Research Laboratory
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio:My  research interests are optimization, machine learning, and network science. In particular, I am interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty:
 
 interests:
 - Artificial Intelligence
@@ -29,10 +29,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: PhD in Electrical Engineering
+    institution: Virginia Tech
+    year: 2016
+  - course: M.Sc. in Operation Research
     institution: Massachusetts Institute of Technology
     year: 2009
   - course: BSc in Artificial Intelligence
