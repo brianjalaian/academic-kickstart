@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Aritifical Intelligence Research Scientist  
+role: Artificial Intelligence Research Scientist  
 
 # Organizations/Affiliations
 organizations:
@@ -72,6 +72,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Brian Jalaian is a research scientist and research lead at a U.S. Federal Research Laboratory. 
+He has obtained his Ph.D. in Electrical Engineering from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering and MS in Industrial System Engineering (Operation Research) from the Bradley Department of Electrical and Computer Engineering and the Grado Department of Industrial Systems Engineering in 2013 and 2014 at Virginia Tech, respectively. 
+His research interests are optimization, machine learning, and network science. In particular, he is interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty.
