@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Research Scientist  
+role: Adjunct Assistant Research Professor / Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: National Research Laboratory
+- name: Virginia Tech
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -46,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:bran@vt.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BJalaian
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=exiqJqcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brianjalaian/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
