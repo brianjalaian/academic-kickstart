@@ -30,7 +30,7 @@ subtitle = ""
 [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "TensforFlow, PyTorch, and  Fast.AI"
+  name = "TensforFlow, PyTorch, Pandas, Scikit-Learn, and Numpy"
   description = "100%"
 
 +++
