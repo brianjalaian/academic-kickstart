@@ -18,7 +18,7 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "100%":q
+  description = "100%"
 
   
 [[feature]]
