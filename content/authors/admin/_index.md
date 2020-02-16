@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Artificial Intelligence Research Scientist  
+role: Research Scientist / Adjunct Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: National Research Laboratory
+- name: ARL / Virginia Tech
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio:My  research interests are optimization, machine learning, and network science. In particular, I am interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty:
 
 interests:
-- Artificial Intelligence
-- Machine Learning
-- Adversarial Machine Learning
 - Deep Learning
-- Bayesian Neural Network
+- Machine Learning Safety and Security
+- Uncertainty Quantification for Artificial Intelligence
+- Deep Learning Model Complexity Reduction
+- Bayesian Neural Network Approximation
 
 education:
   courses:
@@ -46,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:bran@vt.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/BJalaian
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=exiqJqcAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/brianjalaian/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +72,5 @@ user_groups:
 - Visitors
 ---
 
-Brian Jalaian is a research scientist and research lead at a U.S. Federal Research Laboratory. 
-He has obtained his Ph.D. in Electrical Engineering from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering and MS in Industrial System Engineering (Operation Research) from the Bradley Department of Electrical and Computer Engineering and the Grado Department of Industrial Systems Engineering in 2013 and 2014 at Virginia Tech, respectively. 
-His research interests are optimization, machine learning, and network science. In particular, he is interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty.
+Brian Jalaian is a research scientist and research lead at ARL and a adjunct research assistant professor at Virginia Tech. 
+He has obtained his Ph.D. from the Bradley Department of Electrical and Computer Engineering in 2016 at Virginia Tech. He has obtained his MS in Electrical Engineering (Network and Communication Systems)  and MS in Industrial System Engineering (Operation Research) in 2013 and 2014 at Virginia Tech, respectively. His research interests are optimization, machine learning, and network science.
