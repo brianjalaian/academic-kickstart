@@ -21,11 +21,13 @@ organizations:
 bio:My  research interests are optimization, machine learning, and network science. In particular, I am interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty:
 
 interests:
+- Optimization
+- Machine Learning
+- Uncertinaty in AI
+- AI Safety and Security
 - Deep Learning
-- Machine Learning Safety and Security
-- Uncertainty Quantification for Artificial Intelligence
-- Deep Learning Model Complexity Reduction
-- Bayesian Neural Network Approximation
+- Bayesian Neural Network
+- Adversarial Machine Learning
 
 education:
   courses:
