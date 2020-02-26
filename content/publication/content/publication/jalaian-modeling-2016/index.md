@@ -3,7 +3,7 @@ title: "Modeling and optimization for programmable unified control plane in hete
 date: 2016-09-01
 publishDate: 2020-02-17T03:05:45.305028Z
 authors: ["Brian Jalaian", "Venkat Dasari", "Y. Thomas Hou"]
-publication_types: ["2"]
+publication_types: ["1"]
 abstract: ""
 featured: false
 publication: ""

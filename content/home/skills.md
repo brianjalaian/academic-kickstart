@@ -14,23 +14,30 @@ subtitle = ""
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "100%"
 
+
+  [[feature]]
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Deep Learning"
+  description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Mathematics & Statistics"
   description = "100%"  
-  
-[[feature]]
-  icon = "robot"
-  icon_pack = "fas"
-  name = "TensforFlow, PyTorch, Pandas, Scikit-Learn, and Numpy"
+
+  [[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
   description = "100%"
+  
+# [[feature]]
+#  icon = "laptop-code"
+#  icon_pack = "fas"
+#  name = "TensforFlow, PyTorch, Numpy, Pandas, Scikit-Learn, Seaborn, and Matplotlib"
+#  description = "100%"
 
 +++
