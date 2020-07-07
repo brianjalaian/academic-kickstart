@@ -21,13 +21,13 @@ organizations:
 bio:My  research interests are optimization, machine learning, and network science. In particular, I am interested in modeling predictive uncertainty in machine learning models, adversarial machine learning, network optimization and optimal decision making under uncertainty:
 
 interests:
-- Optimization
-- Machine Learning
-- Uncertinaty in AI
-- AI Safety and Security
-- Deep Learning
-- Bayesian Neural Network
-- Adversarial Machine Learning
+- Bayesian Inference
+- Bayesian Deep Learning
+- Uncertainty-aware AI
+- Mathematical Optimization
+- Safe Artificial Intelligence
+- Robust, Resilient and Assured Artificial Intelligence
+
 
 education:
   courses:
@@ -49,6 +49,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:bran@vt.edu".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/brian-jalaian-8235184a/ 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/BJalaian
@@ -58,6 +61,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/brianjalaian/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

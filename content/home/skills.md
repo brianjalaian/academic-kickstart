@@ -19,7 +19,7 @@ subtitle = ""
   [[feature]]
   icon = "robot"
   icon_pack = "fas"
-  name = "Deep Learning"
+  name = "Deep Learning & Bayesian Machine Learning"
   description = "100%"
   
 [[feature]]
@@ -28,16 +28,28 @@ subtitle = ""
   name = "Mathematics & Statistics"
   description = "100%"  
 
-  [[feature]]
+[[feature]]
+  icon = "calculator"
+  icon_pack = "fas"
+  name = "Mathematical Programming & Optimization"
+  description = "100%"  
+
+[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "100%"
   
-# [[feature]]
-#  icon = "laptop-code"
-#  icon_pack = "fas"
-#  name = "TensforFlow, PyTorch, Numpy, Pandas, Scikit-Learn, Seaborn, and Matplotlib"
-#  description = "100%"
+[[feature]]
+ icon = "laptop-code"
+ icon_pack = "fas"
+ name = "PyTorch & TensdorFlow"
+ description = "100%"
+
+ [[feature]]
+ icon = "keyboard"
+ icon_pack = "fas"
+ name = "Linux Admin and Networking"
+ description = "100%"
 
 +++
